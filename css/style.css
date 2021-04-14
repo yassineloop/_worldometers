@@ -1,0 +1,25 @@
+/* html {
+  font-size: 11px;
+}
+
+@media screen and (min-width: 576px) {
+  html {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  html {
+    font-size: 14px;
+  }
+}
+*/
+body{
+  /*background-color: #F5F0F0;*/
+}
